@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Делегаты", "Дел�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ковариантность", "Ковариантность\Ковариантность.csproj", "{15190787-D971-4601-BFF3-639A65D7A812}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SR", "SR\SR.csproj", "{D9CCA599-A266-423A-8D46-EBAAB7986921}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{15190787-D971-4601-BFF3-639A65D7A812}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15190787-D971-4601-BFF3-639A65D7A812}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15190787-D971-4601-BFF3-639A65D7A812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9CCA599-A266-423A-8D46-EBAAB7986921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9CCA599-A266-423A-8D46-EBAAB7986921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9CCA599-A266-423A-8D46-EBAAB7986921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9CCA599-A266-423A-8D46-EBAAB7986921}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
