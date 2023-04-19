@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception", "Exception\Exception.csproj", "{D2967456-B8C1-40F2-B2E9-AB604B4C011C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Делегаты", "Делегаты\Делегаты.csproj", "{DE55F1DD-9666-4B87-8791-F7A2AA53FB6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Делегаты", "Делегаты\Делегаты.csproj", "{DE55F1DD-9666-4B87-8791-F7A2AA53FB6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ковариантность", "Ковариантность\Ковариантность.csproj", "{15190787-D971-4601-BFF3-639A65D7A812}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DE55F1DD-9666-4B87-8791-F7A2AA53FB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE55F1DD-9666-4B87-8791-F7A2AA53FB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE55F1DD-9666-4B87-8791-F7A2AA53FB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15190787-D971-4601-BFF3-639A65D7A812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15190787-D971-4601-BFF3-639A65D7A812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15190787-D971-4601-BFF3-639A65D7A812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15190787-D971-4601-BFF3-639A65D7A812}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
