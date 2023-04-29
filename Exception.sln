@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception", "Exception\Exce
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Делегаты", "Делегаты\Делегаты.csproj", "{DE55F1DD-9666-4B87-8791-F7A2AA53FB6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ковариантность", "Ковариантность\Ковариантность.csproj", "{15190787-D971-4601-BFF3-639A65D7A812}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ковариантность", "Ковариантность\Ковариантность.csproj", "{15190787-D971-4601-BFF3-639A65D7A812}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SR", "SR\SR.csproj", "{D9CCA599-A266-423A-8D46-EBAAB7986921}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SR", "SR\SR.csproj", "{D9CCA599-A266-423A-8D46-EBAAB7986921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SR2", "SR2\SR2.csproj", "{897B0E87-B5C5-49E5-A60B-554FA0A84098}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D9CCA599-A266-423A-8D46-EBAAB7986921}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9CCA599-A266-423A-8D46-EBAAB7986921}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9CCA599-A266-423A-8D46-EBAAB7986921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897B0E87-B5C5-49E5-A60B-554FA0A84098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897B0E87-B5C5-49E5-A60B-554FA0A84098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897B0E87-B5C5-49E5-A60B-554FA0A84098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897B0E87-B5C5-49E5-A60B-554FA0A84098}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
